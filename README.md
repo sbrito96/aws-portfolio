@@ -15,7 +15,8 @@ Here you can get to know more about my skills, projects and certifications
 
 # 👨‍💻 Projects:
 
-- [Investigation Failed SSH Logins with Splunk](https://github.com/sbrito96/investigation-failed-SSH-logins-Splunk)
+- [Launching a Web Server With Amazon EC2](https://github.com/sbrito96/launching-web-server-EC2)
+- [Configuring a VPC in AWS](https://github.com/sbrito96/configuring-VPC)
 
 
 
@@ -31,8 +32,6 @@ Here you can get to know more about my skills, projects and certifications
 - ![IT Specialist Cybersecurity](https://img.shields.io/badge/IT_Specialist_Cybersecurity-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white)  
 
   [Check all my certificates here](https://www.credly.com/users/samuel-brito.0d47190d)  
-
----
 
 ### 📌 Currently Pursuing:
 - ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
