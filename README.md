@@ -18,7 +18,7 @@ Here you can get to know more about my skills, projects and certifications
 - [Launching a Web Server With Amazon EC2](https://github.com/sbrito96/launching-web-server-EC2)
 - [Configuring a VPC in AWS](https://github.com/sbrito96/configuring-VPC)
 - [Systems Hardening With AWS System Manager](https://github.com/sbrito96/system-hardening)
-- [Network Hardening]()
+- [Data Protection Using Encryption](https://github.com/sbrito96/data-protection)
 
 
 
