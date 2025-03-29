@@ -19,6 +19,7 @@ Here you can get to know more about my skills, projects and certifications
 - [Configuring a VPC in AWS](https://github.com/sbrito96/configuring-VPC)
 - [Systems Hardening With AWS System Manager](https://github.com/sbrito96/system-hardening)
 - [Data Protection Using Encryption](https://github.com/sbrito96/data-protection)
+- [Monitoring Infrastructure Using Amazon CloudWatch](https://github.com/sbrito96/monitoring-infrastructure-amazon-cloudwatch)
 
 
 
