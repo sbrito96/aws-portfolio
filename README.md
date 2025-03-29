@@ -20,6 +20,7 @@ Here you can get to know more about my skills, projects and certifications
 - [Systems Hardening With AWS System Manager](https://github.com/sbrito96/system-hardening)
 - [Data Protection Using Encryption](https://github.com/sbrito96/data-protection)
 - [Monitoring Infrastructure Using Amazon CloudWatch](https://github.com/sbrito96/monitoring-infrastructure-amazon-cloudwatch)
+- [Identity and Access Management - Passwords Policy, User Policies and Groups](https://github.com/sbrito96/IAM-password-users-groups)
 
 
 
