@@ -22,8 +22,7 @@ Here you can get to know more about my skills, projects and certifications
 - [Monitoring Infrastructure Using Amazon CloudWatch](https://github.com/sbrito96/monitoring-infrastructure-amazon-cloudwatch)
 - [Identity and Access Management - Passwords Policy, User Policies and Groups](https://github.com/sbrito96/IAM-password-users-groups)
 - [Malware Protection Using AWS Network Firewall](https://github.com/sbrito96/firewall-malware)
-
-
+- [Utilization and Cost Optimization for a Web App](https://github.com/sbrito96/utilization-cost-optimization)
 
 # 📜 Certifications  
 
